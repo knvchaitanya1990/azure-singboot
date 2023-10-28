@@ -15,7 +15,7 @@ public class SampleProjectApplication {
 
 	@GetMapping("/test")
 	public String index() {
-		return "Your App deployed successfully in Azure Devops";
+		return "Chaitanya : Your App deployed successfully in Azure Devops";
 	}
 
 }
